@@ -8,4 +8,5 @@ https://github.com/ksnxi/guess_num-
 https://ksnxi.github.io/guess_num-/
 
 ## Description
-Simple number guessing game built with HTML, CSS, JavaScript.
+Simple number guessing game built with HTML, JavaScript.
+
